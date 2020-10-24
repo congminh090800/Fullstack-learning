@@ -1,0 +1,14 @@
+{
+  "name": "fullstack-coursera",
+  "version": "1.0.0",
+  "description": "fullstack web dev learning directory",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minh",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
